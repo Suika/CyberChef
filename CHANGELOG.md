@@ -2,6 +2,12 @@
 All major and minor version changes will be documented in this file. Details of patch-level version changes can be found in [commit messages](https://github.com/gchq/CyberChef/commits/master).
 
 
+### [9.15.0] - 2020-03-05
+- 'CipherSaber2 Encrypt' and 'CipherSaber2 Decrypt' operations added [@n1073645] | [#952]
+
+### [9.14.0] - 2020-03-05
+- 'Luhn Checksum' operation added [@n1073645] | [#965]
+
 ### [9.13.0] - 2020-02-13
 - 'Rail Fence Cipher Encode' and 'Rail Fence Cipher Decode' operations added [@Flavsditz] | [#948]
 
@@ -203,6 +209,8 @@ All major and minor version changes will be documented in this file. Details of 
 
 
 
+[9.15.0]: https://github.com/gchq/CyberChef/releases/tag/v9.15.0
+[9.14.0]: https://github.com/gchq/CyberChef/releases/tag/v9.14.0
 [9.13.0]: https://github.com/gchq/CyberChef/releases/tag/v9.13.0
 [9.12.0]: https://github.com/gchq/CyberChef/releases/tag/v9.12.0
 [9.11.0]: https://github.com/gchq/CyberChef/releases/tag/v9.11.0
@@ -265,6 +273,7 @@ All major and minor version changes will be documented in this file. Details of 
 [@n1474335]: https://github.com/n1474335
 [@d98762625]: https://github.com/d98762625
 [@j433866]: https://github.com/j433866
+[@n1073645]: https://github.com/n1073645
 [@GCHQ77703]: https://github.com/GCHQ77703
 [@h345983745]: https://github.com/h345983745
 [@s2224834]: https://github.com/s2224834
@@ -356,3 +365,5 @@ All major and minor version changes will be documented in this file. Details of 
 [#865]: https://github.com/gchq/CyberChef/pull/865
 [#912]: https://github.com/gchq/CyberChef/pull/912
 [#948]: https://github.com/gchq/CyberChef/pull/948
+[#952]: https://github.com/gchq/CyberChef/pull/952
+[#965]: https://github.com/gchq/CyberChef/pull/965
